@@ -1,0 +1,11 @@
+﻿  Game.cpp
+  Paddles.cpp
+C:\dev\cpp\proj\proj\Paddles.cpp(11,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\dev\cpp\proj\proj\Paddles.cpp(11,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\dev\cpp\proj\proj\Paddles.cpp(21,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\dev\cpp\proj\proj\Paddles.cpp(21,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\dev\cpp\proj\proj\Paddles.cpp(26,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\dev\cpp\proj\proj\Paddles.cpp(26,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  proj.vcxproj -> C:\dev\cpp\proj\Debug\proj.exe
